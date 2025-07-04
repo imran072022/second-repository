@@ -14,3 +14,12 @@
     padding: 10px;
 
 }
+
+.two {
+    margin: 10px;
+    border: 2px groove rgb(10, 6, 243);
+    box-sizing: border-box;
+    background-color: rgb(224, 88, 156);
+    padding: 10px;
+    color: white;
+}
